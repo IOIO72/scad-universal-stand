@@ -4,8 +4,6 @@
 
 by IOIO72 aka Tamio Patrick Honma (https://honma.de)
 
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
-
 ## Updates
 
 **2022-02-21:** Add experimental feature *Reduce Filament Consumption*
@@ -15,6 +13,12 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 Whether you want to use a device in an angled position or present something in an optimal orientation, you can design a stand to suit your needs.
 
 This model is customizable to generate STL files for your individual use case. Included in this package are some examples and inspirations for smartphones, tablets, notebooks, business cards, table name cards, print magazines, keyboards, etc.
+
+![Universal Stand Customizer](Universal%20Stand%20Examples.jpg)
+![Xencelabs Quickkeys Stand](xencelabs-quickkeys.jpg)
+![Business Cards Holder](business-cards.jpg)
+![Product Presentation Stand](product-presentation.jpg)
+
 
 ## Customization
 
@@ -51,8 +55,6 @@ This model is customizable to generate STL files for your individual use case. I
 
 ### Use OpenSCAD
 
-As the Thingiverse customizer has some issues, it's better to use OpenSCAD instead.
-
 1. **Download and install:** [OpenSCAD](http://openscad.org/) version 2021.01 or newer
 2. **Download:** The *.scad file of this model.
 3. **Start** OpenSCAD and **open** the *.scad file in it.
@@ -77,7 +79,20 @@ If you like to use your configuration as a template for further models, it's a g
 
 Use the drop-down menu to access your saved configurations.
 
-### Help others and post a Remix
+## Print
 
-Your configuration may be helpful for others. Consider to upload your STL file as a [remix of this model](https://www.thingiverse.com/thing:5245158/remix).
+Use a **brim** for better bed adhesion.
+
+Instead of infill you may consider to increase the amount of walls of the shell, which should lead to faster prints.
+
+![Brim](brim.jpg)
+
+## Post Printing
+
+### Tip for interactive devices like smartphones
+
+You should add a rubber tape and weight on the foot of the stand to prevent the stand to slip away.
+
+![Xencelabs Quickkeys Stand with rubber](xencelabs-quickkeys-rubber.jpg)
+![Xencelabs Quickkeys Stand with rubber](xencelabs-quickkeys-use.jpg)
 
