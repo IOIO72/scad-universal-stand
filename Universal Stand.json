@@ -1,0 +1,225 @@
+{
+    "parameterSets": {
+        "Smartphone horizontal": {
+            "$fn": "100",
+            "angle": "35",
+            "depth": "70",
+            "foot_depth": "72",
+            "foot_orientation": "infront",
+            "height": "1.8",
+            "stand_thickness": "1.8",
+            "stopper_height": "12",
+            "width": "150"
+        },
+        "Large smartphone horizontal": {
+            "$fn": "100",
+            "angle": "35",
+            "depth": "75",
+            "foot_depth": "77",
+            "foot_orientation": "infront",
+            "height": "1.8",
+            "stand_thickness": "1.8",
+            "stopper_height": "12",
+            "width": "160"
+        },
+        "Extra large smartphone horizontal": {
+            "$fn": "100",
+            "angle": "35",
+            "depth": "80",
+            "foot_depth": "82",
+            "foot_orientation": "infront",
+            "height": "1.8",
+            "stand_thickness": "1.8",
+            "stopper_height": "12",
+            "width": "165"
+        },
+        "Business cards": {
+            "$fn": "100",
+            "angle": "45",
+            "depth": "60",
+            "foot_depth": "10",
+            "foot_orientation": "centered",
+            "height": "1.5",
+            "stand_thickness": "1.5",
+            "stopper_height": "20",
+            "width": "90"
+        },
+        "Table name card": {
+            "$fn": "100",
+            "angle": "45",
+            "depth": "90",
+            "foot_depth": "10",
+            "foot_orientation": "centered",
+            "height": "1.5",
+            "stand_thickness": "1.5",
+            "stopper_height": "6",
+            "width": "110"
+        },
+        "Magazine closed": {
+            "$fn": "100",
+            "angle": "45",
+            "depth": "300",
+            "foot_depth": "18",
+            "foot_orientation": "centered",
+            "height": "1.8",
+            "stand_thickness": "2.5",
+            "stopper_height": "12",
+            "width": "210"
+        },
+        "Magazine opened": {
+            "$fn": "100",
+            "angle": "45",
+            "depth": "300",
+            "foot_depth": "18",
+            "foot_orientation": "centered",
+            "height": "1.8",
+            "stand_thickness": "2.5",
+            "stopper_height": "12",
+            "width": "420"
+        },
+        "Tablet 5inch horizontal": {
+            "$fn": "100",
+            "angle": "35",
+            "depth": "90",
+            "foot_depth": "30",
+            "foot_orientation": "infront",
+            "height": "1.8",
+            "stand_thickness": "1.8",
+            "stopper_height": "10",
+            "width": "160"
+        },
+        "Tablet 5inch vertical": {
+            "$fn": "100",
+            "angle": "35",
+            "depth": "160",
+            "foot_depth": "30",
+            "foot_orientation": "infront",
+            "height": "1.8",
+            "stand_thickness": "1.8",
+            "stopper_height": "10",
+            "width": "90"
+        },
+        "Tablet 7inch horizontal": {
+            "$fn": "100",
+            "angle": "35",
+            "depth": "120",
+            "foot_depth": "30",
+            "foot_orientation": "infront",
+            "height": "1.8",
+            "stand_thickness": "1.8",
+            "stopper_height": "10",
+            "width": "200"
+        },
+        "Tablet 7inch vertical": {
+            "$fn": "100",
+            "angle": "35",
+            "depth": "200",
+            "foot_depth": "30",
+            "foot_orientation": "infront",
+            "height": "1.8",
+            "stand_thickness": "1.8",
+            "stopper_height": "10",
+            "width": "120"
+        },
+        "Tablet 9inch horizontal": {
+            "$fn": "100",
+            "angle": "35",
+            "depth": "160",
+            "foot_depth": "30",
+            "foot_orientation": "infront",
+            "height": "1.8",
+            "stand_thickness": "1.8",
+            "stopper_height": "10",
+            "width": "240"
+        },
+        "Tablet 9inch vertical": {
+            "$fn": "100",
+            "angle": "35",
+            "depth": "240",
+            "foot_depth": "30",
+            "foot_orientation": "infront",
+            "height": "1.8",
+            "stand_thickness": "1.8",
+            "stopper_height": "10",
+            "width": "160"
+        },
+        "Tablet 10inch horizontal": {
+            "$fn": "100",
+            "angle": "35",
+            "depth": "180",
+            "foot_depth": "30",
+            "foot_orientation": "infront",
+            "height": "1.8",
+            "stand_thickness": "1.8",
+            "stopper_height": "10",
+            "width": "250"
+        },
+        "Tablet 10inch vertical": {
+            "$fn": "100",
+            "angle": "35",
+            "depth": "250",
+            "foot_depth": "30",
+            "foot_orientation": "infront",
+            "height": "1.8",
+            "stand_thickness": "1.8",
+            "stopper_height": "10",
+            "width": "180"
+        },
+        "Tablet 13inch horizontal": {
+            "$fn": "100",
+            "angle": "35",
+            "depth": "210",
+            "foot_depth": "30",
+            "foot_orientation": "infront",
+            "height": "1.8",
+            "stand_thickness": "1.8",
+            "stopper_height": "14",
+            "width": "310"
+        },
+        "Tablet 13inch vertical": {
+            "$fn": "100",
+            "angle": "35",
+            "depth": "310",
+            "foot_depth": "30",
+            "foot_orientation": "infront",
+            "height": "1.8",
+            "stand_thickness": "1.8",
+            "stopper_height": "14",
+            "width": "210"
+        },
+        "MacBook Air 2018": {
+            "$fn": "100",
+            "angle": "30",
+            "depth": "220",
+            "foot_depth": "20",
+            "foot_orientation": "behind",
+            "height": "2.5",
+            "stand_thickness": "2.5",
+            "stopper_height": "14",
+            "width": "335"
+        },
+        "MacBookPro 2019": {
+            "$fn": "100",
+            "angle": "30",
+            "depth": "245",
+            "foot_depth": "20",
+            "foot_orientation": "behind",
+            "height": "2.5",
+            "stand_thickness": "2.5",
+            "stopper_height": "20",
+            "width": "360"
+        },
+        "xencelabs Quick Keys": {
+            "$fn": "100",
+            "angle": "30",
+            "depth": "63",
+            "foot_depth": "65",
+            "foot_orientation": "infront",
+            "height": "2",
+            "stand_thickness": "2",
+            "stopper_height": "12",
+            "width": "155"
+        }
+    },
+    "fileFormatVersion": "1"
+}
